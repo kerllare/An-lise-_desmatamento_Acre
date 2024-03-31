@@ -16,14 +16,11 @@ Este trabalho é um exercício da semana 16 do bootcamp de análise de dados da 
 - Os notebooks Jupyter contêm todas as análises realizadas e podem ser visualizados diretamente no GitHub ou executados em um ambiente local.
 
 ## Contribuição
-Contribuições para aprimorar a análise são bem-vindas. Por favor, leia as instruções de contribuição e siga o código de conduta deste projeto.
+Contribuições para aprimorar a análise são bem-vindas. 
 
 ---
 
 <p align="center">
-  <img src="LINK_PARA_O_LOGOTIPO" alt="Logotipo da Reprograma" width="200">
-</p>
-
-<p align="center">
+<img src="https://user-images.githubusercontent.com/84551213/171416454-ab93ab7f-e5a0-4276-81ec-4f5cb79dff31.png" alt="logo da reprograma" border="0" width = "200" /> <p align="center"></p>
   Reduzindo a lacuna de gênero no setor de tecnologia por meio da educação.
 </p>
