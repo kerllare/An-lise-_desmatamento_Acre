@@ -19,8 +19,8 @@ Este trabalho é um exercício da semana 16 do bootcamp de análise de dados da 
 Contribuições para aprimorar a análise são bem-vindas. 
 
 ---
-
 <p align="center">
-<img src="https://user-images.githubusercontent.com/84551213/171416454-ab93ab7f-e5a0-4276-81ec-4f5cb79dff31.png" alt="logo da reprograma" border="0" width = "200" /> <p align="center"></p>
-                                                Reduzindo a lacuna de gênero no setor de tecnologia por meio da educação.
+  <img src="https://user-images.githubusercontent.com/84551213/171416454-ab93ab7f-e5a0-4276-81ec-4f5cb79dff31.png" alt="logo da reprograma" width="200">
+  <br>
+  Reduzindo a lacuna de gênero no setor de tecnologia por meio da educação.
 </p>
